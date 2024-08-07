@@ -3,8 +3,6 @@
 
 - 🔭 I have recently completed **my master's thesis on VLM's and Explainable AI.**
 
-- 🌱 I’m currently learning **Django and Power BI.**
-
 - 📫 How to reach me: **info@danieljeckel.de.**
 
 - ⚡ Fun fact **I love running, cycling and endurance sports in general.**
